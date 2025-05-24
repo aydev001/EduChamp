@@ -38,6 +38,7 @@
 	-o-transform: translateY(-50%);
 	-webkit-transform: translateY(-50%);
 	-moz-transform: translateY(-50%);
+    display: none;
 }
 .styleswitcher-right .switcher-btn-bx {
     position: absolute;
